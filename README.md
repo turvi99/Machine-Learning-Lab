@@ -39,7 +39,7 @@ This repository contains **10 lab experiments** spanning the complete machine le
 | Metric | Value |
 |:--|:--|
 | **Total Experiments** | 10 |
-| **ML Algorithms** | 12+ (Logistic Regression, Linear Regression, KNN, Naive Bayes, SMOTE, PCA, etc.) |
+| **ML Algorithms** | 12+ (Logistic Regression, Linear Regression, Naive Bayes, SMOTE, PCA, etc.) |
 | **Datasets** | 6 (Titanic, Breast Cancer, Bike Sharing, Churn, Resume, US Airlines Tweets) |
 | **Best Accuracy** | 97.2% (Logistic Regression on Breast Cancer) |
 | **NLP Project** | Resume Classifier with Naive Bayes (76% accuracy) |
@@ -125,11 +125,12 @@ This repository contains **10 lab experiments** spanning the complete machine le
 
 **Classification Results (Logistic Regression with SMOTE):**
 
-| Split | Accuracy | F1 Score |
-|:------|:---------|:---------|
-| Training | 91.6% | 0.955 |
-| Validation | 91.0% | — |
-| Test | 91.0% | 0.913 |
+| Split | Accuracy |
+|:------|:---------|
+| Training | 91.6% |
+| Validation | 91.0% |
+| Test | 91.0% |
+| F1 Score | 0.903 |
 
 ---
 
